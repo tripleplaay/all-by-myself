@@ -1,0 +1,37 @@
+body {
+	margin; 0;
+	padding: 0;
+	text-align: justify;
+	font-family: "Roboto"
+	font-size: 13px;
+	background-color: #425eb4
+}
+*{
+	margin: 0 auto 0 auto;
+}
+
+#wrap {
+	height: 150px;
+	text-alig: center;
+	background-color: blue;
+}
+
+nav {
+	width: 100%
+	float: left;
+	padding: 0;
+	list-style: none;
+	background-color: grey;
+	border-bottom: 1px solid black;
+	border-top: 1px solid black; }
+#nav {
+	width: 100%;
+	display: inline-block;
+	text-align: center;
+	
+}	
+
+.logo {
+	position: absolute;
+	left: 10px;
+}
